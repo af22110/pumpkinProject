@@ -1,0 +1,8 @@
+.venv/
+a.py
+dataset/NIL/
+dataset/NIL.zip
+dataset/prompts/
+dataset/goyo_extracted.xlsx
+dataset/tsv/
+dataset/NAIST誤用コーパス利用許可書*
