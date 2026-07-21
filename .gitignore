@@ -1,8 +1,23 @@
+# 環境
 .venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# エディタ・OS
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
+
+# 作業用スクリプト
 a.py
+
+# 誤用コーパス関連（外部提供データのため非公開）
 dataset/NIL/
 dataset/NIL.zip
-dataset/prompts/
 dataset/goyo_extracted.xlsx
 dataset/tsv/
+dataset/prompts/
 dataset/NAIST誤用コーパス利用許可書*
